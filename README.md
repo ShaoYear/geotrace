@@ -38,19 +38,23 @@ GeoTrace 是一款纯本地运行的 Android 摄影工具：用手机记录 GPS 
 
 ## 截图
 
-所有截图均来自真实 Android 真机运行（浅色主题）。
+所有截图均来自真实 Android 真机运行。
+
+### 首页
+
+<center><img src="screenshots/01-home.png" width="340" alt="首页"></center>
 
 ### 记录轨迹
 
 打开 GeoTrace 开始记录，锁屏也能持续定位。
 
-![轨迹记录](screenshots/02-track-recording.png)
+<center><img src="screenshots/02-track-recording.png" width="340" alt="轨迹记录"></center>
 
 ### 查看轨迹详情
 
 真实轨迹折线、距离、定位点数、来源，以及轨迹上已定位的照片。
 
-![轨迹详情](screenshots/03-track-detail.png)
+<center><img src="screenshots/03-track-detail.png" width="340" alt="轨迹详情"></center>
 
 ### 添加照片
 
@@ -64,25 +68,25 @@ GeoTrace 是一款纯本地运行的 Android 摄影工具：用手机记录 GPS 
 
 按拍摄时间匹配轨迹，逐张给出匹配结果与坐标，副本安全保存。
 
-![定位结果](screenshots/08-geotag-result.png)
+<center><img src="screenshots/08-geotag-result.png" width="340" alt="定位结果"></center>
 
 ### 照片详情与定位结果
 
 高清预览、完整 EXIF、拍摄时间、地址、经纬度与照片位置地图；也可以随时手动修改时间和位置。
 
-![照片详情](screenshots/06-photo-detail.jpg)
+<center><img src="screenshots/06-photo-detail.jpg" width="300" alt="照片详情"></center>
 
 ### 手动地图选点
 
 搜索地点或直接在地图上落点，随时修正照片位置。
 
-![手动选点](screenshots/09-manual-location.png)
+<center><img src="screenshots/09-manual-location.png" width="340" alt="手动选点"></center>
 
 ### 设置
 
 主题、时间偏移、最大匹配时间、GPS 记录间隔均可自行调整。
 
-![设置](screenshots/07-settings.png)
+<center><img src="screenshots/07-settings.png" width="300" alt="设置"></center>
 
 ### 深色模式
 
@@ -122,7 +126,9 @@ GeoTrace 是一款纯本地运行的 Android 摄影工具：用手机记录 GPS 
 
 **最新版本：v1.0.0**
 
-- 前往 [Releases 页面](releases/latest) 下载 `GeoTrace-v1.0.0.apk`
+- **[下载 GeoTrace-v1.0.0.apk](https://github.com/ShaoYear/geotrace/releases/download/v1.0.0/GeoTrace-v1.0.0.apk)**
+- 查看 [v1.0.0 Release 说明](https://github.com/ShaoYear/geotrace/releases/tag/v1.0.0)
+- 查看 [全部版本 Tags](https://github.com/ShaoYear/geotrace/tags)
 - 系统要求：Android 8.0 及以上（minSdk 26 / targetSdk 36）
 - 安装时如提示「未知来源」，请在系统设置中允许当前浏览器或文件管理器安装应用
 
