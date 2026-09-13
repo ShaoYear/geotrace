@@ -24,7 +24,7 @@ GeoTrace 是一款纯本地运行的 Android 摄影工具：用手机记录 GPS 
 
 ## 核心功能
 
-- **GPS 轨迹记录**：前台服务持续记录，锁屏、切后台都不会中断；实时显示时长、距离、定位点数、速度与定位精度。
+- **GPS 轨迹记录**：前台服务持续记录，锁屏、切后台都不会中断；记录页实时显示高德轨迹地图、当前位置、时长、距离、定位点数、速度与定位精度。
 - **GPX 轨迹导入 / 导出**：支持标准 GPX 1.1，可使用外部设备记录的轨迹，也可导出备份。
 - **照片自动定位**：按 EXIF 拍摄时间匹配轨迹，支持相机/手机时钟偏移校准与「最大匹配时间」保护，超出范围的照片不会被强行写入错误位置。
 - **原片安全**：默认输出带 GPS 的副本到 `Pictures/GeoTrace/Geotagged/`；也可选择覆盖原照片（两阶段安全写入）。
@@ -124,10 +124,10 @@ GeoTrace 是一款纯本地运行的 Android 摄影工具：用手机记录 GPS 
 
 ## 下载
 
-**最新版本：v1.0.0**
+**最新版本：v1.1.0**
 
-- **[下载 GeoTrace-v1.0.0.apk](https://github.com/ShaoYear/geotrace/releases/download/v1.0.0/GeoTrace-v1.0.0.apk)**
-- 查看 [v1.0.0 Release 说明](https://github.com/ShaoYear/geotrace/releases/tag/v1.0.0)
+- **[下载 GeoTrace-v1.1.0.apk](https://github.com/ShaoYear/geotrace/releases/download/v1.1.0/GeoTrace-v1.1.0.apk)**
+- 查看 [v1.1.0 Release 说明](https://github.com/ShaoYear/geotrace/releases/tag/v1.1.0)
 - 查看 [全部版本 Tags](https://github.com/ShaoYear/geotrace/tags)
 - 系统要求：Android 8.0 及以上（minSdk 26 / targetSdk 36）
 - 安装时如提示「未知来源」，请在系统设置中允许当前浏览器或文件管理器安装应用
